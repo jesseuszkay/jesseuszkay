@@ -24,7 +24,7 @@
    
 <div align="center">
  
-https://github.com/jesseuszkay/jesseuszkay/blob/main/aboutme.png?raw=true
+![Some images of things in my life: my cat, hiking, and a cappella singing]([Image URL](https://github.com/jesseuszkay/jesseuszkay/blob/main/aboutme.png?raw=true)
 
  </div>
 
