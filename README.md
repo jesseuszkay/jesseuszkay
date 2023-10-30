@@ -1,6 +1,6 @@
 <h1 align="center"> Hi! I'm Jesse 👩🏻‍💻</h1>
 
-<h3 align="center">I'm an experienced full stack software engineer with a Masters in Economics from the University of Waterloo. </h3>
+I'm an experienced full stack software engineer with a Masters in Economics from the University of Waterloo.
 
 <p align="center">
  ✨ Find me on LinkedIn! ✨
